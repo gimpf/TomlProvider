@@ -1,0 +1,38 @@
+# -------- Visual Studio Ignores
+
+# visual studio per-user files
+*.suo
+*.user
+
+# visual studio directories
+.vs/
+
+# build result directories
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+
+# build result files
+*.obj
+*.pdb
+*.dll
+*.exe
+
+# NuGet Packages
+**/packages/*
+*.nupkg
+*.nuget.props
+*.nuget.targets
+
+# Paket dependency manager
+.paket/paket.exe
+paket-files/
+
+# FAKE - F# Make
+.fake/
+
+# etc.
+*~
+*.bak
+*.ignore
