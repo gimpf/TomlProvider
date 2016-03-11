@@ -4,5 +4,6 @@
 #load "../../packages/FSharp.TypeProviders.StarterPack/content/ProvidedTypes.fsi"
       "../../packages/FSharp.TypeProviders.StarterPack/content/ProvidedTypes.fs"
       "../../packages/FSharp.TypeProviders.StarterPack/content/DebugProvidedTypes.fs"
-      "../Library1.fs"
+      "../FSharpExt.fs"
+      "../TomlProvider.fs"
       "../AssemblyInfo.fs"

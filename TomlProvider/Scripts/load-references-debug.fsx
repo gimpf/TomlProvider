@@ -3,3 +3,4 @@
 #r "System.Core.dll"
 #r "System.dll"
 #r "System.Numerics.dll"
+#r "../../packages/Nett/lib/Net40/Nett.dll"
