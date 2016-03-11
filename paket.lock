@@ -3,3 +3,4 @@ NUGET
   specs:
     FAKE (4.21.4)
     FSharp.TypeProviders.StarterPack (1.1.3.88)
+    Nett (0.4.1)
