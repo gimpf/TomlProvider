@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TomlProvider", "TomlProvider\TomlProvider.fsproj", "{E0BB1631-6025-43F3-8CC1-33BE4AA370B2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{67C9C379-F9A4-4833-B882-68D1BF1ECFAF}"
+	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		build.bat = build.bat
+		build.fsx = build.fsx
+		paket.dependencies = paket.dependencies
+		paket.lock = paket.lock
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0BB1631-6025-43F3-8CC1-33BE4AA370B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0BB1631-6025-43F3-8CC1-33BE4AA370B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0BB1631-6025-43F3-8CC1-33BE4AA370B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0BB1631-6025-43F3-8CC1-33BE4AA370B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
